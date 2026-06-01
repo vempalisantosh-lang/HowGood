@@ -12,10 +12,10 @@ ENDPOINT = "https://howgood-apply-api.howgood.workers.dev/apply"
 payload = {
     "name": "Sivasanthosh Vempali",
     "email": "vepalisantosh@gmail.com",
-    "resume": "",        # TODO: public URL to resume PDF
+    "resume": "https://github.com/vempalisantosh-lang/HowGood/raw/refs/heads/main/Sivasanthosh_Vempali_Resume_v2.docx",
     "location": "Tadepalligudem, India",
     "linkedin": "https://www.linkedin.com/in/santhosh-vempali-6bba4a16a/",
-    "codeLink": "",      # TODO: URL to this script (repo/gist)
+    "codeLink": "https://github.com/vempalisantosh-lang/HowGood",
     "yearsPython": 5,
     "yearsDjango": 3,
     "repos": "https://github.com/santhoshvempali",
